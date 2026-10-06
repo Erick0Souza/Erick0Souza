@@ -21,7 +21,6 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
 ║ USER............. Erick Souza                                        ║
 ║ ROLE............. Full Stack Developer                               ║
 ║ FOCUS............ Backend • APIs • Web Applications                  ║
