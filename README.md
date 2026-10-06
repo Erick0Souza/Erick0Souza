@@ -21,13 +21,12 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                      J.A.R.V.I.S // SYSTEM CORE                     ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ USER............. Erick Souza                                      ║
-║ ROLE............. Full Stack Developer                             ║
-║ FOCUS............ Backend • APIs • Web Applications                ║
-║ STATUS........... Learning / Building / Improving                  ║
-║ ENVIRONMENT...... ONLINE                                           ║
+║                                                                      ║
+║ USER............. Erick Souza                                        ║
+║ ROLE............. Full Stack Developer                               ║
+║ FOCUS............ Backend • APIs • Web Applications                  ║
+║ STATUS........... Learning / Building / Improving                    ║
+║ ENVIRONMENT...... ONLINE                                             ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
