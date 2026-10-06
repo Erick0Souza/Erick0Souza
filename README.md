@@ -220,47 +220,6 @@ erick@dev-machine:~$ ./current_objectives.sh
 
 ---
 
-# `> ACTIVITY_MONITOR`
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Erick0Souza&bg_color=020617&color=22d3ee&line=0891b2&point=67e8f9&area=true&area_color=164e63&hide_border=true"
-/>
-
-</div>
-
----
-
-# `> ACHIEVEMENTS_DATABASE`
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Erick0Souza&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
-/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_NEURAL_NETWORK`
-
-<div align="center">
-
-```text
-Scanning GitHub contribution matrix...
-Generating neural path...
-System status: ACTIVE
-```
-
-<img
-  src="https://raw.githubusercontent.com/Erick0Souza/Erick0Souza/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake contribution animation"
-/>
-
-</div>
 
 ---
 
@@ -279,8 +238,6 @@ Quando quiser adicionar LinkedIn, remova o comentário e troque SEU-USUARIO.
   <img src="https://img.shields.io/badge/LinkedIn-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
 </a>
 -->
-
-</div>
 
 ---
 
