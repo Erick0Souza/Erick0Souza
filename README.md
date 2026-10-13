@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f172a,100:0891b2&text=ERICK%20SOUZA&fontColor=67e8f9&fontSize=52&fontAlignY=36&animation=fadeIn&desc=BACK-END%20DEVELOPER%20%7C%20JAVA%20%26%20SPRING%20BOOT&descAlignY=56&descSize=17"/>
+<h1>ERICK SOUZA</h1>
+
+<h3>Back-end Developer | Java & Spring Boot</h3>
+
+<p>
+  APIs REST • PostgreSQL • Docker • Spring Security • JWT • Testes
+</p>
 
 <br>
 
@@ -19,7 +25,6 @@
   <img src="https://img.shields.io/badge/GitHub-Erick0Souza-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Erick0Souza&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" />
 
 </div>
 
@@ -249,7 +254,6 @@ Estou aberto a oportunidades como **Desenvolvedor Back-end Júnior**, especialme
 "Code. Test. Improve. Repeat."
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,50:0f172a,100:0891b2"/>
 
 <sub>
 ERICK0SOUZA // BACK-END DEVELOPMENT // 2026
