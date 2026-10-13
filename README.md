@@ -1,196 +1,215 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f172a,100:0891b2&text=ERICK%20SOUZA&fontColor=67e8f9&fontSize=52&fontAlignY=36&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20SYSTEM%20ONLINE&descAlignY=56&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f172a,100:0891b2&text=ERICK%20SOUZA&fontColor=67e8f9&fontSize=52&fontAlignY=36&animation=fadeIn&desc=BACK-END%20DEVELOPER%20%7C%20JAVA%20%26%20SPRING%20BOOT&descAlignY=56&descSize=17"/>
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=%5BSYSTEM%5D+Inicializando+perfil...;%5BOK%5D+Ambiente+de+desenvolvimento+carregado;%3E+Back-end+%7C+Front-end+%7C+Full+Stack;%3E+Java+%7C+C%23+%7C+PHP+%7C+Python;%3E+Construindo+projetos+reais+e+evoluindo+todos+os+dias."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=%3E+Back-end+%7C+Java+%7C+Spring+Boot;%3E+REST+APIs+%7C+PostgreSQL+%7C+Docker;%3E+Spring+Security+%7C+JWT+%7C+Testing;%3E+Buscando+oportunidade+como+Desenvolvedor+Back-end+J%C3%BAnior"
   alt="Typing SVG"
 />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Erick0Souza&label=PROFILE%20ACCESS&color=0891b2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Erick0Souza?label=FOLLOWERS&style=for-the-badge&color=0e7490&labelColor=020617" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge&labelColor=020617" />
+<a href="https://www.linkedin.com/in/erick-paz-9a0b3a376/">
+  <img src="https://img.shields.io/badge/LinkedIn-Erick%20Paz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Erick0Souza">
+  <img src="https://img.shields.io/badge/GitHub-Erick0Souza-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Erick0Souza&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" />
 
 </div>
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║ USER............. Erick Souza                                        ║
-║ ROLE............. Full Stack Developer                               ║
-║ FOCUS............ Backend • APIs • Web Applications                  ║
-║ STATUS........... Learning / Building / Improving                    ║
-║ ENVIRONMENT...... ONLINE                                             ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+## `> SOBRE_MIM`
 
-## `> SOBRE_MIM.exe`
+Sou desenvolvedor em formação com foco em **Back-end**, principalmente no ecossistema **Java e Spring Boot**.
 
-```python
-class ErickSouza:
-    def __init__(self):
-        self.area = "Desenvolvimento de Software"
-        self.foco = ["Back-end", "Front-end", "Full Stack"]
+Tenho desenvolvido projetos práticos envolvendo **APIs REST, autenticação e autorização com JWT, Spring Security, bancos de dados relacionais, regras de negócio, testes automatizados, Docker e integração contínua**.
 
-        self.languages = [
-            "Java",
-            "C#",
-            "PHP",
-            "Python",
-            "JavaScript"
-        ]
+Meu objetivo atual é conquistar uma oportunidade como **Desenvolvedor Back-end Júnior**, preferencialmente em modelo remoto, onde eu possa continuar evoluindo tecnicamente e contribuir com aplicações reais.
 
-        self.current_mission = (
-            "Construir aplicações completas, "
-            "melhorar arquitetura e evoluir como desenvolvedor."
-        )
-
-    def status(self):
-        return "SYSTEM ONLINE"
-```
-
-Sou desenvolvedor em formação com foco em **desenvolvimento web, APIs e aplicações Full Stack**.
-
-Gosto de transformar conhecimento em projetos funcionais, trabalhando com autenticação, bancos de dados, regras de negócio, testes automatizados, Docker e integração contínua.
-
-Atualmente venho construindo projetos em diferentes ecossistemas para ampliar minha experiência prática com **Java/Spring Boot, C#/.NET, PHP/Laravel e Python/Django**.
+Além da minha stack principal, também tenho experiência prática em projetos com **PHP/Laravel, C#/.NET e Python/Django**.
 
 ---
 
-## `> TECH_STACK`
+## `> STACK_PRINCIPAL`
 
 <div align="center">
 
-### Linguagens
+### Back-end
 
-<img src="https://skillicons.dev/icons?i=java,cs,php,python,javascript,html,css&theme=dark" />
-
-<br>
-
-### Back-end & Frameworks
-
-<img src="https://skillicons.dev/icons?i=spring,dotnet,laravel,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
 
 <br>
 
 ### Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
 <br>
 
 ### DevOps & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,maven,vscode,idea,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,maven,postman,idea,vscode&theme=dark" />
 
 </div>
 
----
-
-## `> DEVELOPMENT_MODULES`
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REST_API-020617?style=for-the-badge&logo=fastapi&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/REST_API-020617?style=for-the-badge&logo=swagger&logoColor=22d3ee"/>
 <img src="https://img.shields.io/badge/JWT-020617?style=for-the-badge&logo=jsonwebtokens&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/ORM-020617?style=for-the-badge&logo=databricks&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/DOCKER-020617?style=for-the-badge&logo=docker&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/CI%2FCD-020617?style=for-the-badge&logo=githubactions&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/AUTOMATED_TESTS-020617?style=for-the-badge&logo=testinglibrary&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/SPRING_SECURITY-020617?style=for-the-badge&logo=springsecurity&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/JPA_%2F_HIBERNATE-020617?style=for-the-badge&logo=hibernate&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/TESTES_AUTOMATIZADOS-020617?style=for-the-badge&logo=junit5&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/CI_%2F_CD-020617?style=for-the-badge&logo=githubactions&logoColor=22d3ee"/>
 
 </div>
 
 ---
 
-# `> PROJECT_DATABASE`
+# `> PROJETO_PRINCIPAL`
+
+## 📦 Controle de Estoque
 
 <div align="center">
 
 <a href="https://github.com/Erick0Souza/Controle-Estoque">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Erick0Souza&repo=Controle-Estoque&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=06b6d4&bg_color=020617"/>
-</a>
-
-<a href="https://github.com/Erick0Souza/Agenda">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Erick0Souza&repo=Agenda&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=06b6d4&bg_color=020617"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=Erick0Souza&repo=Controle-Estoque&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=06b6d4&bg_color=020617"/>
 </a>
 
 </div>
+
+Sistema web para gerenciamento de estoque desenvolvido com foco em uma estrutura próxima de aplicações reais.
+
+```text
+STACK       Java 17 • Spring Boot • PostgreSQL • Docker
+API         REST • Swagger / OpenAPI
+SEGURANÇA   Spring Security • JWT • BCrypt • Perfis de acesso
+DADOS       Spring Data JPA • Hibernate • PostgreSQL • H2
+TESTES      JUnit 5 • Mockito • MockMvc • Spring Boot Test
+DEVOPS      Docker • Docker Compose • GitHub Actions
+```
+
+### Principais funcionalidades
+
+- autenticação e autorização com JWT;
+- perfis de acesso `ADMIN`, `OPERADOR` e `CONSULTA`;
+- gerenciamento de produtos, categorias e movimentações;
+- regras para entrada, saída e estoque insuficiente;
+- filtros, paginação e ordenação;
+- auditoria de ações;
+- dashboard administrativo;
+- relatórios e exportações;
+- testes automatizados;
+- ambientes separados para desenvolvimento, testes e produção;
+- Docker e pipeline de CI com GitHub Actions.
+
+➡️ **[Ver projeto completo](https://github.com/Erick0Souza/Controle-Estoque)**
+
+---
+
+# `> OUTROS_PROJETOS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 Agenda
+
+**C# • ASP.NET Core • PostgreSQL**
+
+Sistema de agendamento com autenticação JWT, perfis de acesso, regras de conflito de horários, Entity Framework Core, testes xUnit e Docker.
+
+**[Ver repositório →](https://github.com/Erick0Souza/Agenda)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎫 Central de Chamados
+
+**PHP • Laravel • Blade**
+
+Sistema de help desk com clientes, técnicos, chamados, comentários, anexos, histórico e controle de permissões.
+
+**[Ver repositório →](https://github.com/Erick0Souza/central-chamados)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ✅ TaskFlow
+
+**Python • Django • PostgreSQL**
+
+Sistema de gestão de projetos e tarefas com equipes, permissões, histórico, dashboard, Docker e testes automatizados.
+
+**[Ver repositório →](https://github.com/Erick0Souza/Taskflow)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Foco atual
+
+```text
+Java
+Spring Boot
+APIs REST
+Spring Security
+PostgreSQL
+Docker
+Testes automatizados
+Git / GitHub
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> CONHECIMENTOS_ADICIONAIS`
 
 <div align="center">
 
-<a href="https://github.com/Erick0Souza/central-chamados">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Erick0Souza&repo=central-chamados&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=06b6d4&bg_color=020617"/>
-</a>
-
-<a href="https://github.com/Erick0Souza/Taskflow">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Erick0Souza&repo=Taskflow&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=06b6d4&bg_color=020617"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,python,django,javascript,html,css,sqlite&theme=dark" />
 
 </div>
 
-### `01 // Controle de Estoque`
-
-```text
-STACK    Java • Spring Boot • PostgreSQL • JWT • Docker
-TYPE     REST API + Web Application
-MODULES  Produtos • Categorias • Movimentações • Usuários
-EXTRAS   Segurança • Testes • Swagger • GitHub Actions
-```
-
-### `02 // Agenda`
-
-```text
-STACK    C# • ASP.NET Core • PostgreSQL • Entity Framework Core
-TYPE     Sistema Web + REST API
-MODULES  Usuários • Serviços • Profissionais • Agendamentos
-EXTRAS   JWT • BCrypt • Docker • xUnit • CI
-```
-
-### `03 // Central de Chamados`
-
-```text
-STACK    PHP • Laravel • SQLite • Blade
-TYPE     Help Desk Web Application
-MODULES  Chamados • Técnicos • Clientes • Comentários • Anexos
-EXTRAS   Permissões • Histórico • Testes automatizados
-```
-
-### `04 // TaskFlow`
-
-```text
-STACK    Python • Django • PostgreSQL • JavaScript
-TYPE     Project & Task Management System
-MODULES  Projetos • Equipes • Tarefas • Comentários
-EXTRAS   RBAC • Docker • Tests • GitHub Actions
-```
+> Essas tecnologias fazem parte dos meus estudos e projetos complementares.  
+> Meu foco profissional principal atualmente é **Back-end com Java e Spring Boot**.
 
 ---
 
-# `> CURRENT_OBJECTIVES.sh`
+## `> CURRENT_OBJECTIVES`
 
 ```bash
-erick@dev-machine:~$ ./current_objectives.sh
+erick@dev-machine:~$ ./career.sh
 
-[01] Aprimorar arquitetura de APIs REST.................. RUNNING
-[02] Evoluir conhecimentos em Java / Spring Boot......... RUNNING
-[03] Aprofundar C# / ASP.NET Core........................ RUNNING
-[04] Desenvolver aplicações com Python / Django.......... RUNNING
-[05] Melhorar testes automatizados........................ RUNNING
-[06] Estudar Docker e CI/CD............................... RUNNING
-[07] Construir projetos de portfólio mais completos....... RUNNING
-[08] Evoluir para desenvolvimento Full Stack profissional RUNNING
+[01] Evoluir em Java e Spring Boot....................... RUNNING
+[02] Aprofundar APIs REST e arquitetura Back-end......... RUNNING
+[03] Melhorar testes automatizados........................ RUNNING
+[04] Evoluir em PostgreSQL e modelagem de dados........... RUNNING
+[05] Aprimorar Docker e CI/CD............................. RUNNING
+[06] Construir experiência com projetos reais............. RUNNING
+[07] Conquistar oportunidade Back-end Júnior remota....... TARGET
 
-> STATUS: CONTINUOUS IMPROVEMENT
+> STATUS: LEARNING • BUILDING • APPLYING
 ```
 
 ---
 
-# `> GITHUB_ANALYTICS`
+## `> GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -206,57 +225,34 @@ erick@dev-machine:~$ ./current_objectives.sh
 
 </div>
 
-<br>
+---
+
+# `> CONTATO`
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=Erick0Souza&theme=transparent&hide_border=true&background=020617&stroke=164e63&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc"
-/>
+Estou aberto a oportunidades como **Desenvolvedor Back-end Júnior**, especialmente com **Java e Spring Boot**.
 
-</div>
+<br><br>
 
----
-
-
----
-
-# `> CONNECTION_PORTS`
-
-<div align="center">
+<a href="https://www.linkedin.com/in/erick-paz-9a0b3a376/">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Erick0Souza">
-  <img src="https://img.shields.io/badge/GitHub-Erick0Souza-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/GitHub-Erick0Souza-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!--
-Quando quiser adicionar LinkedIn, remova o comentário e troque SEU-USUARIO.
-
-<a href="https://www.linkedin.com/in/SEU-USUARIO/">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
-</a>
--->
-
----
-
-<div align="center">
-
-### `SYSTEM MESSAGE`
+<br><br>
 
 ```text
 "Code. Test. Improve. Repeat."
 ```
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=%3E+Building+one+project+at+a+time...;%3E+Learning+never+stops...;%3E+System+ready+for+the+next+challenge."
-/>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,50:0f172a,100:0891b2"/>
 
 <sub>
-ERICK0SOUZA // DEVELOPMENT SYSTEM // 2026
+ERICK0SOUZA // BACK-END DEVELOPMENT // 2026
 </sub>
 
 </div>
